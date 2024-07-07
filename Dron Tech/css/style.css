@@ -262,7 +262,7 @@ body {
     line-height: 1.2;
   }
 }
-@media(max-width: 345px){
+@media(max-width: 425px){
   .items-block-leaders__text {
     font-size: 14px;
   }
